@@ -152,6 +152,7 @@
 | [Requesty](https://www.requesty.ai) | OpenAI-compatible gateway that routes requests to 600+ models from 30+ providers, with fallbacks, caching and spend tracking | `apiKey` | Yes |
 | [Roboflow Universe](https://universe.roboflow.com) | Pre-trained computer vision models | `apiKey` | Yes |
 | [RouterBase API](https://routerbase.com) | One OpenAI-compatible API for accessing 200+ AI models from OpenAI, Anthropic, Google, Meta, xAI, DeepSeek, and more | `apiKey` | Unknown |
+| [Scalekit](https://www.scalekit.com) | AI agent integrations platform and MCP gateway: agents call 55,000+ tools across 1,100+ apps with per-user credentials, scoped tool calls and audit logs | `OAuth` | No |
 | [SFW](https://sfwapi.dev) | Nudity detection for images, GIFs and videos with four content levels and an optional blocking policy, 500 free credits a month | `apiKey` | Yes |
 | [SkyBiometry](https://skybiometry.com/documentation/) | Face Detection, Face Recognition and Face Grouping | `apiKey` | Unknown |
 | [Spam Hunter](https://spam-hunter.ru/) | Free service to classify text as spam using ML | `apiKey` | Yes |
